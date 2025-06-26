@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: BBC
     url: https://www.bbc.co.uk
+  - name: KASM
+    url: $KASM
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
