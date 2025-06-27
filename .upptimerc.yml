@@ -13,7 +13,9 @@ sites:
     url: https://www.bbc.co.uk
   - name: KASM
     url: $KASM
-    type: globalping     
+    type: globalping
+    expectedStatusCodes:
+      - 200    
   - name: PORTAINER
     url: $PORTAINER 
 
