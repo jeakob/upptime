@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm",
     "status": "down",
-    "uptime": "4.15%",
-    "uptimeDay": "4.15%",
-    "uptimeWeek": "4.15%",
-    "uptimeMonth": "4.15%",
-    "uptimeYear": "4.15%",
+    "uptime": "1.12%",
+    "uptimeDay": "1.12%",
+    "uptimeWeek": "1.12%",
+    "uptimeMonth": "1.12%",
+    "uptimeYear": "1.12%",
     "time": 2207,
     "timeDay": 2207,
     "timeWeek": 2207,
     "timeMonth": 2207,
     "timeYear": 2207,
     "dailyMinutesDown": {
-      "2025-06-26": 61
+      "2025-06-27": 131,
+      "2025-06-26": 100
     }
   }
 ]
