@@ -21,9 +21,6 @@ sites:
 
   - name: KASM3
     url: $KASM
-    headers:
-      - "CF-Access-Client-Id: $CF_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET" 
 
   - name: PORTAINER
     url: $PORTAINER 
