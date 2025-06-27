@@ -14,8 +14,6 @@ sites:
   - name: KASM
     url: $KASM
     type: globalping
-    expectedStatusCodes:
-      - 200    
   - name: PORTAINER
     url: $PORTAINER 
 
