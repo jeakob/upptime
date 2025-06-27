@@ -6,9 +6,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 90,
     "timeDay": 90,
@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2025-06-27": 96
+      "2025-06-27": 117
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 163,
+    "timeDay": 153,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 341,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "time": 343,
+    "timeDay": 350,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 273,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 281,
+    "timeDay": 271,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -78,19 +78,19 @@
     "url": "$KASM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm",
-    "status": "down",
-    "uptime": "15.53%",
-    "uptimeDay": "15.53%",
-    "uptimeWeek": "15.53%",
-    "uptimeMonth": "15.53%",
-    "uptimeYear": "15.53%",
-    "time": 1942,
-    "timeDay": 1942,
-    "timeWeek": 1942,
-    "timeMonth": 1942,
-    "timeYear": 1942,
+    "status": "up",
+    "uptime": "15.31%",
+    "uptimeDay": "15.31%",
+    "uptimeWeek": "15.31%",
+    "uptimeMonth": "15.31%",
+    "uptimeYear": "15.31%",
+    "time": 1904,
+    "timeDay": 1904,
+    "timeWeek": 1904,
+    "timeMonth": 1904,
+    "timeYear": 1904,
     "dailyMinutesDown": {
-      "2025-06-27": 1092,
+      "2025-06-27": 1113,
       "2025-06-26": 100
     }
   },
@@ -99,39 +99,19 @@
     "url": "$KASM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm-1",
-    "status": "down",
-    "uptime": "7.57%",
-    "uptimeDay": "7.57%",
-    "uptimeWeek": "7.57%",
-    "uptimeMonth": "7.57%",
-    "uptimeYear": "7.57%",
-    "time": 52,
-    "timeDay": 52,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "status": "up",
+    "uptime": "12.71%",
+    "uptimeDay": "12.71%",
+    "uptimeWeek": "12.71%",
+    "uptimeMonth": "12.71%",
+    "uptimeYear": "12.71%",
+    "time": 55,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-06-27": 120
-    }
-  },
-  {
-    "name": "KASM3",
-    "url": "$KASM",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "kasm-3",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 59,
-    "timeDay": 59,
-    "timeWeek": 59,
-    "timeMonth": 59,
-    "timeYear": 59,
-    "dailyMinutesDown": {
-      "2025-06-27": 0
+      "2025-06-27": 132
     }
   },
   {
@@ -140,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "down",
-    "uptime": "21.70%",
-    "uptimeDay": "21.70%",
-    "uptimeWeek": "21.70%",
-    "uptimeMonth": "21.70%",
-    "uptimeYear": "21.70%",
-    "time": 1571,
-    "timeDay": 1571,
-    "timeWeek": 1571,
-    "timeMonth": 1571,
-    "timeYear": 1571,
+    "uptime": "19.56%",
+    "uptimeDay": "19.56%",
+    "uptimeWeek": "19.56%",
+    "uptimeMonth": "19.56%",
+    "uptimeYear": "19.56%",
+    "time": 1531,
+    "timeDay": 1531,
+    "timeWeek": 1531,
+    "timeMonth": 1531,
+    "timeYear": 1531,
     "dailyMinutesDown": {
-      "2025-06-27": 151
+      "2025-06-27": 172
     }
   }
 ]
