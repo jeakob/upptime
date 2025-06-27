@@ -15,6 +15,12 @@ sites:
     url: $KASM
     type: globalping
     __dangerous__body_down: "Host Error"
+  - name: KASM1
+    url: $KASM
+    __dangerous__body_down: "Host Error"
+  - name: KASM2
+    url: $KASM
+    __dangerous__body_down: "KASM"
   - name: PORTAINER
     url: $PORTAINER 
 
