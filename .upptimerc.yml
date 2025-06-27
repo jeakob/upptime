@@ -24,7 +24,7 @@ sites:
 
   - name: KASM3
     url: $KASM
-    __dangerous__body_down: "301 Moved Permanently"
+    __dangerous__body_down: "Error code 502"
 
   - name: KASM4
     url: $KASM
