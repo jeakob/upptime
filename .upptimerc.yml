@@ -14,12 +14,8 @@ sites:
   - name: KASM
     url: $KASM
     type: globalping     
-  - name: test2.com
-    check: "tcp-ping"
-    url: $KASM
-    port: 443
-  - name: PORTAINER
-  - url: $PORTAINER
+
+
   
 assignees:
   - jeakob
