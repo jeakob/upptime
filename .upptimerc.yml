@@ -18,7 +18,11 @@ sites:
   - name: test.com
     url: test.com
     type: globalping
-
+    
+  - name: test2.com
+    check: "tcp-ping"
+    url: $KASM
+    port: 443
 
 assignees:
   - jeakob
