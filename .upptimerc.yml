@@ -27,7 +27,6 @@ sites:
 
   - name: PORTAINER
     url: $PORTAINER 
-
   
 assignees:
   - jeakob
