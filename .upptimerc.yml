@@ -14,7 +14,8 @@ sites:
   - name: KASM
     url: $KASM
     type: globalping     
-
+  - name: PORTAINER
+    url: $PORTAINER 
 
   
 assignees:
