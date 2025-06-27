@@ -18,37 +18,12 @@ sites:
   - name: KASM1
     url: $KASM
     __dangerous__body_down: "Cloudflare"
-  - name: KASM2
-    url: $KASM
-    __dangerous__body_down_if_text_missing: "KASM"
 
-  - name: KASM3
-    url: $KASM
-    __dangerous__body_down: "Error code 502"
-
-  - name: KASM4
-    url: $KASM
-    __dangerous__body_down: "Bad gateway"
-
-  - name: KASM5
-    url: $KASM
-    __dangerous__body_down_if_text_missing: "app header-fixed sidebar-fixed"
-
-  - name: KASM6
-    url: $KASM
-    __dangerous__body_down: "SERVICE_DOWN_MARKER"
-
-  - name: KASM7
-    url: $KASM
-    __dangerous__body_down: "SERVICE_DOWN_MARKER"
-
-  - name: KASM8
-    url: $KASM
-    __dangerous__body_down: "openresty"
-
-  - name: KASM9
-    url: $KASM
-    __dangerous__body_down: "502 Bad Gateway"
+   - name: KASM3
+     url: $KASM
+     headers:
+       - "CF-Access-Client-Id: $CF_CLIENT_ID"
+       - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
 
   - name: PORTAINER
     url: $PORTAINER 
