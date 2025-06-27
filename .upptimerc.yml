@@ -46,6 +46,10 @@ sites:
     url: $KASM
     __dangerous__body_down: "openresty"
 
+  - name: KASM9
+    url: $KASM
+    __dangerous__body_down: "502 Bad Gateway"
+
   - name: PORTAINER
     url: $PORTAINER 
 
