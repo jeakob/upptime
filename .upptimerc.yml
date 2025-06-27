@@ -42,6 +42,10 @@ sites:
     url: $KASM
     __dangerous__body_down: "SERVICE_DOWN_MARKER"
 
+  - name: KASM8
+    url: $KASM
+    __dangerous__body_down: "openresty"
+
   - name: PORTAINER
     url: $PORTAINER 
 
