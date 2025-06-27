@@ -14,7 +14,7 @@ sites:
   - name: KASM
     url: $KASM
     type: globalping
-    __dangerous__body_down: "Host Error"
+    __dangerous__body_down: "Login"
 
   - name: KASM1
     url: $KASM
