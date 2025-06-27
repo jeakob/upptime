@@ -76,19 +76,19 @@
     "url": "$KASM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm",
-    "status": "down",
-    "uptime": "0.68%",
-    "uptimeDay": "0.68%",
-    "uptimeWeek": "0.68%",
-    "uptimeMonth": "0.68%",
-    "uptimeYear": "0.68%",
-    "time": 1455,
-    "timeDay": 1455,
-    "timeWeek": 1455,
-    "timeMonth": 1455,
-    "timeYear": 1455,
+    "status": "up",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
+    "time": 1372,
+    "timeDay": 1372,
+    "timeWeek": 1372,
+    "timeMonth": 1372,
+    "timeYear": 1372,
     "dailyMinutesDown": {
-      "2025-06-27": 1058,
+      "2025-06-27": 1092,
       "2025-06-26": 100
     }
   },
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 72
+      "2025-06-27": 106
     }
   }
 ]
