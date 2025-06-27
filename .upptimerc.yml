@@ -35,12 +35,12 @@ sites:
     __dangerous__body_down_if_text_missing: "app header-fixed sidebar-fixed"
 
   - name: KASM6
-  url: $KASM
-  __dangerous__body_down: "SERVICE_DOWN_MARKER"
+    url: $KASM
+    __dangerous__body_down: "SERVICE_DOWN_MARKER"
 
   - name: KASM7
-  url: $KASM
-  __dangerous__body_down: "SERVICE_DOWN_MARKER"
+    url: $KASM
+    __dangerous__body_down: "SERVICE_DOWN_MARKER"
 
   - name: PORTAINER
     url: $PORTAINER 
