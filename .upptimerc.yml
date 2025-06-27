@@ -15,11 +15,8 @@ sites:
     url: $KASM
     type: globalping
     __dangerous__body_down: "Host Error"
-  - name: KASM1
-    url: $KASM
-    __dangerous__body_down: "Cloudflare"
 
-  - name: KASM3
+  - name: KASM1
     url: $KASM
 
   - name: PORTAINER
