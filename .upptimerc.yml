@@ -26,6 +26,10 @@ sites:
     url: $KASM
     __dangerous__body_down: "301 Moved Permanently"
 
+  - name: KASM4
+    url: $KASM
+    __dangerous__body_down: "502: Bad gateway"
+
   - name: PORTAINER
     url: $PORTAINER 
 
