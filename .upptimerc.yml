@@ -21,6 +21,11 @@ sites:
   - name: KASM2
     url: $KASM
     __dangerous__body_down_if_text_missing: '"status":"UP"'
+
+  - name: KASM3
+    url: $KASM
+    __dangerous__body_down: "301 Moved Permanently"
+
   - name: PORTAINER
     url: $PORTAINER 
 
