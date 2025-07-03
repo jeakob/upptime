@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 96,
     "timeDay": 90,
-    "timeWeek": 96,
+    "timeWeek": 97,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 185,
-    "timeWeek": 155,
+    "timeWeek": 152,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 331,
-    "timeWeek": 332,
+    "timeWeek": 334,
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 171,
-    "timeWeek": 286,
+    "timeWeek": 275,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {}
@@ -79,13 +79,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm",
     "status": "up",
-    "uptime": "85.40%",
+    "uptime": "85.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.40%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "85.40%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "85.45%",
+    "uptimeYear": "85.45%",
     "time": 1985,
-    "timeDay": 4545,
+    "timeDay": 2923,
     "timeWeek": 1985,
     "timeMonth": 1985,
     "timeYear": 1985,
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kasm-1",
     "status": "up",
-    "uptime": "97.24%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "97.24%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 588,
     "timeDay": 113,
     "timeWeek": 588,
@@ -121,17 +121,17 @@
     "url": "$PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "98.03%",
-    "time": 1381,
-    "timeDay": 302,
-    "timeWeek": 1381,
-    "timeMonth": 1381,
-    "timeYear": 1381,
+    "time": 1361,
+    "timeDay": 444,
+    "timeWeek": 1361,
+    "timeMonth": 1361,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2025-06-27": 174
     }
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 6
+      "2025-07-03": 37
     }
   }
 ]
