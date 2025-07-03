@@ -21,7 +21,13 @@ sites:
 
   - name: PORTAINER
     url: $PORTAINER 
-  
+    
+  - name: PWPUSH
+    url: $PWPUSH
+
+  - name: REDIRECT_CHECKER
+    url: $REDIRECT-CHECKER
+    
 assignees:
   - jeakob
 
