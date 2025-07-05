@@ -1,7 +1,7 @@
 url: $PWPUSH
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2025-07-05T09:30:07.197Z
+status: down
+code: 502
+responseTime: 560
+lastUpdated: 2025-07-05T16:54:38.481Z
 startTime: 2025-07-03T21:51:51.072Z
 generator: Upptime <https://github.com/upptime/upptime>
